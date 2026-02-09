@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: /sitemap.xml
+Sitemap: https://itsthejoker.github.io/hugo_demo/sitemap.xml
