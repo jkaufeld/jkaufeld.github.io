@@ -11,7 +11,7 @@ showWordCount: false
 showSummary: false
 sharingLinks: false
 showPagination: false
-_build:
+build:
   list: 'never'
 ---
 

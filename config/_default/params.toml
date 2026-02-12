@@ -41,7 +41,7 @@ showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = true
 cardViewScreenWidth = false
-layoutBackgroundBlur = false
+layoutBackgroundBlur = true
 disableHeroImageFilter = false
 homepageImage = "dave-photoz-FdTmaUlEr4A-unsplash.jpg"
 
