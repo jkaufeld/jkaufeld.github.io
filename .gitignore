@@ -1,5 +1,5 @@
 resources/
 public/
 .junie/
-
+.DS_Store
 submodules/
