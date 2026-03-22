@@ -1,5 +1,5 @@
 ---
-title: "Review: {{ replace .Name "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 summary: "..."
 topics: 
