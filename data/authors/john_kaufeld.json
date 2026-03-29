@@ -1,0 +1,8 @@
+{
+    "name": "John Kaufeld",
+    "image" : "img/profile_300x300.jpg?DOESNT_EXIST_YET",
+    "bio": "Dude who likes to play games.",
+    "social": [
+      {"ko-fi": "https://ko-fi.com/..."}
+    ]
+}
