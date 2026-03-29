@@ -22,7 +22,7 @@ verification = { }
 rssnext = { }
 advertisement = { }
 showViews = false
-mainSections = ["posts", "review"]
+mainSections = ["posts", "reviews"]
 
 [header]
 layout = "basic"

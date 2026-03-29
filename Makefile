@@ -6,7 +6,7 @@ serve:
 
 review:
 	@read -p "What do you want to call the new review? " name && \
-	hugo new content --kind review review/$$(echo "$$name" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
+	hugo new content --kind review reviews/$$(echo "$$name" | tr '[:upper:]' '[:lower:]' | sed 's/ /-/g')
 
 
 post:

@@ -28,7 +28,7 @@ enableEmoji = true
   tag = "tags"
   category = "topics"
   author = "authors"
-  review = "reviews"
+  reviews = "reviews"
   series = "series"
 
 [sitemap]
