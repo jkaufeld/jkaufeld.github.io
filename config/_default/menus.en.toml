@@ -8,12 +8,6 @@ identifier = "mYq9xpHXsp"
 weight = 1
 
 [[main]]
-name = "About"
-pageRef = "about"
-identifier = "nwCdSJ5xLy"
-weight = 9_999
-
-[[main]]
 name = "Topics"
 pageRef = "topics"
 identifier = "lgpFikM3IB"
@@ -30,6 +24,12 @@ name = "Reviews"
 pageRef = "review"
 identifier = "9ohXVux6k0"
 weight = 2
+
+[[main]]
+name = "About"
+pageRef = "about"
+identifier = "nwCdSJ5xLy"
+weight = 9_999
 
 [[footer]]
 none = "none"
