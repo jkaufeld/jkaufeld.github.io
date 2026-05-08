@@ -1,5 +1,5 @@
-What if you could write about whatever you want?
+Games bring us together -- families, friends, and friends you haven't met yet.
 
-What if you could tell the world about everything that's on your mind?
+Gather around the table. Pull up a chair. 
 
-Welcome to Hugo.
+Let's change the way the world plays.
