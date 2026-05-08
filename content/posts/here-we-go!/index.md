@@ -1,6 +1,6 @@
 ---
 title: "Here We Go!"
-date: 2026-05-22T16:26:44-04:00
+date: 2026-05-08T20:26:44-04:00
 summary: "Let's get this party started. The world awaits!"
 topics: 
     - "posts"
@@ -22,4 +22,4 @@ It may have been a while since we enjoyed the store together, but I still believ
 
 And I'm still out to change the way the world plays. I'm gonna do it, too.
 
-Will you join me? Your seat is waiting!
+Your seat is waiting. Will you join me? 
