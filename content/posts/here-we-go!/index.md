@@ -1,9 +1,9 @@
 ---
 title: "Here We Go!"
 date: 2026-05-22T16:26:44-04:00
-summary: "C'mon -- it's time to play."
+summary: "Let's get this party started. The world awaits!"
 topics: 
-    - ""
+    - "posts"
 tags:
     - ""
 ---
