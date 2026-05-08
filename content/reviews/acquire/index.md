@@ -11,6 +11,7 @@ tags:
     - "Min Players: 2"
     - "Max Players: 5"
 draft: true
+
 ---
 
 > [!info]+ Quick Facts
